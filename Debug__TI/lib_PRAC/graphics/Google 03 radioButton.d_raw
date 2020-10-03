@@ -1,0 +1,15 @@
+lib_PRAC/graphics/radioButton.obj: C:/Users/jordi/Google\\ Drive/beritheundeleted@gmail.com/03.\\ UOC/workspaces/SE/2019-1-prac/lib_PRAC/graphics/radioButton.c
+lib_PRAC/graphics/radioButton.obj: C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.3.LTS/include/stdint.h
+lib_PRAC/graphics/radioButton.obj: C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.3.LTS/include/_stdint40.h
+lib_PRAC/graphics/radioButton.obj: C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.3.LTS/include/sys/stdint.h
+lib_PRAC/graphics/radioButton.obj: C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.3.LTS/include/sys/cdefs.h
+lib_PRAC/graphics/radioButton.obj: C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.3.LTS/include/sys/_types.h
+lib_PRAC/graphics/radioButton.obj: C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.3.LTS/include/machine/_types.h
+lib_PRAC/graphics/radioButton.obj: C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.3.LTS/include/machine/_stdint.h
+lib_PRAC/graphics/radioButton.obj: C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.3.LTS/include/sys/_stdint.h
+lib_PRAC/graphics/radioButton.obj: C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.3.LTS/include/stdbool.h
+lib_PRAC/graphics/radioButton.obj: C:\Users\jordi\Google\\ Drive\beritheundeleted@gmail.com\03.\\ UOC\workspaces\SE\2019-1-prac\lib_PRAC\graphics\grlib.h
+lib_PRAC/graphics/radioButton.obj: C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.3.LTS/include/assert.h
+lib_PRAC/graphics/radioButton.obj: C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.3.LTS/include/_ti_config.h
+lib_PRAC/graphics/radioButton.obj: C:/ti/ccs901/ccs/tools/compiler/ti-cgt-arm_18.12.3.LTS/include/linkage.h
+lib_PRAC/graphics/radioButton.obj: C:\Users\jordi\Google\\ Drive\beritheundeleted@gmail.com\03.\\ UOC\workspaces\SE\2019-1-prac\lib_PRAC\graphics\radioButton.h
